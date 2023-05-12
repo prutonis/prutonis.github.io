@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://prutonis.github.io/sitemap.xml

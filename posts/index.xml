@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ion Moroșanu</title>
+    <link>https://prutonis.github.io/posts/</link>
+    <description>Recent content in Posts on Ion Moroșanu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 12 May 2023 12:55:32 +0300</lastBuildDate><atom:link href="https://prutonis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World! A Glimpse into the World of a Seasoned Software Engineer</title>
+      <link>https://prutonis.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 12 May 2023 12:55:32 +0300</pubDate>
+      
+      <guid>https://prutonis.github.io/posts/hello-world/</guid>
+      <description>Introduction Hello, world! It&amp;rsquo;s a pleasure to embark on this blogging journey and share my experiences as a software engineer with all of you. With over 15 years of expertise in the realms of C, Python, and Java, my journey has primarily revolved around backend development. However, I have recently set my sights on the captivating realm of modern frontend technologies. In this blog post, I&amp;rsquo;ll take you through my transition, the challenges I&amp;rsquo;ve encountered, and the excitement of expanding my skill set to include the modern frontend stack.</description>
+    </item>
+    
+  </channel>
+</rss>
