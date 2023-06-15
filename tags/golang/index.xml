@@ -12,7 +12,8 @@
       <pubDate>Wed, 14 Jun 2023 15:20:39 +0300</pubDate>
       
       <guid>https://morosanu.io/posts/wordle-game-telegram-bot/</guid>
-      <description>Introduction Being mainly a Java programmer, I decided however to expand my area of knowledge and the fates fell on the Go language. And the best way to learn is to apply, to practice what you learn! I usually prefer to do this by implementing a game or a tool that has some use. So this time it&amp;rsquo;s a game - Wordle but implemented as a Telegram Bot.
+      <description>Introduction Being mainly a Java programmer, I decided however to expand my area of knowledge and the fates fell on the Go language. And the best way to learn is to apply, to practice what you learn! I usually prefer to do this by implementing a game or a tool that has some use.
+So this time it&amp;rsquo;s a game - Wordle, but implemented as a Telegram Bot.
 Environment To run Go code, you need to install Go on your local computer.</description>
     </item>
     
