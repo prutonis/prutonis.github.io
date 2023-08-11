@@ -13,7 +13,7 @@
       
       <guid>https://morosanu.io/posts/adding-comments-to-my-blog/</guid>
       <description>Motivation Being relatively new to the world of blogging, I quickly realized that my recently created website was missing a crucial element – reader feedback. It was evident that I needed to find a way to bridge this gap and encourage readers to voice their opinions and thoughts on my posts.
-The Search for a Good Commenting Solution: My website is on GitHub and uses Hugo static site generation. So, I needed a commenting solution that fits this setup.</description>
+The Search for a Good Commenting Solution My website is on GitHub and uses Hugo static site generation. So, I needed a commenting solution that fits this setup.</description>
     </item>
     
     <item>
