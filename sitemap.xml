@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morosanu.io/tags/bot/</loc>
-    <lastmod>2023-06-14T15:20:39+03:00</lastmod>
+    <loc>https://morosanu.io/posts/adding-comments-to-my-blog/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/blog/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/categories/blog/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
   </url><url>
     <loc>https://morosanu.io/categories/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/comments/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/generator/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/giscus/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/hugo/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/posts/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/site/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/</loc>
+    <lastmod>2023-08-10T15:52:10+03:00</lastmod>
+  </url><url>
+    <loc>https://morosanu.io/tags/bot/</loc>
     <lastmod>2023-06-14T15:20:39+03:00</lastmod>
   </url><url>
     <loc>https://morosanu.io/categories/coding/</loc>
@@ -18,15 +51,6 @@
     <lastmod>2023-06-14T15:20:39+03:00</lastmod>
   </url><url>
     <loc>https://morosanu.io/tags/golang/</loc>
-    <lastmod>2023-06-14T15:20:39+03:00</lastmod>
-  </url><url>
-    <loc>https://morosanu.io/</loc>
-    <lastmod>2023-06-14T15:20:39+03:00</lastmod>
-  </url><url>
-    <loc>https://morosanu.io/posts/</loc>
-    <lastmod>2023-06-14T15:20:39+03:00</lastmod>
-  </url><url>
-    <loc>https://morosanu.io/tags/</loc>
     <lastmod>2023-06-14T15:20:39+03:00</lastmod>
   </url><url>
     <loc>https://morosanu.io/tags/telegram/</loc>

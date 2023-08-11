@@ -5,7 +5,61 @@
     <link>https://morosanu.io/tags/</link>
     <description>Recent content in Tags on Ion Moroșanu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 14 Jun 2023 15:20:39 +0300</lastBuildDate><atom:link href="https://morosanu.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Aug 2023 15:52:10 +0300</lastBuildDate><atom:link href="https://morosanu.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://morosanu.io/tags/blog/</link>
+      <pubDate>Thu, 10 Aug 2023 15:52:10 +0300</pubDate>
+      
+      <guid>https://morosanu.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comments</title>
+      <link>https://morosanu.io/tags/comments/</link>
+      <pubDate>Thu, 10 Aug 2023 15:52:10 +0300</pubDate>
+      
+      <guid>https://morosanu.io/tags/comments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>generator</title>
+      <link>https://morosanu.io/tags/generator/</link>
+      <pubDate>Thu, 10 Aug 2023 15:52:10 +0300</pubDate>
+      
+      <guid>https://morosanu.io/tags/generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giscus</title>
+      <link>https://morosanu.io/tags/giscus/</link>
+      <pubDate>Thu, 10 Aug 2023 15:52:10 +0300</pubDate>
+      
+      <guid>https://morosanu.io/tags/giscus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://morosanu.io/tags/hugo/</link>
+      <pubDate>Thu, 10 Aug 2023 15:52:10 +0300</pubDate>
+      
+      <guid>https://morosanu.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://morosanu.io/tags/site/</link>
+      <pubDate>Thu, 10 Aug 2023 15:52:10 +0300</pubDate>
+      
+      <guid>https://morosanu.io/tags/site/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>bot</title>
       <link>https://morosanu.io/tags/bot/</link>
